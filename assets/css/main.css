@@ -34,17 +34,17 @@ h3 {
 
 .teamBuilder {
     background-color: white;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     border-radius: 7px;
     box-shadow: 0 2px 6px #000;
-    padding: 0 2em 0 2em;
+    padding: 0.5em 2em 0 2em;
 }
 
 .karma {
     background-color: purple;
     border-radius: 7px;
     box-shadow: 0 2px 6px #000;
-    padding: 0 2em 0 2em;
+    padding: 0.5em 2em 0 2em;
 }
 
 .calculator {
@@ -55,7 +55,7 @@ h3 {
 }
 
 .icon {
-    display: block;
-    float: right;
+    display: right;
+    /* float: right; */
     padding-bottom: 1em;
 }
